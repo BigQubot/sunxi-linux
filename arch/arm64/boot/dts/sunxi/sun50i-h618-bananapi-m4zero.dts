@@ -2344,7 +2344,7 @@
 			gmac-power0;
 			gmac-power1;
 			gmac-power2;
-			status = "okay";
+			status = "disabled";
 			pinctrl-0 = <&gmac1_pin_a>;
 			pinctrl-1 = <&gmac1_pin_b>;
 			pinctrl-names = "default", "sleep";
