@@ -2582,7 +2582,7 @@
 			clocks = <0xd 0x8 0xa 0xd 0x7>;
 			clock-names = "bus", "pclk", "mclk";
 			resets = <0xd 0x3>;
-			status = "disabled";
+			status = "okay";
 			s_cir0_used = <0x1>;
 			pinctrl-names = "default", "sleep";
 			pinctrl-0 = <0x62>;
